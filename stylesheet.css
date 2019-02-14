@@ -1,0 +1,58 @@
+/*付箋型*/
+li
+{
+	padding: 0.5em 1em;
+	margin: 2em 0;
+	color: #232323;
+	background: #fff8e8;
+	border-left: solid 10px;
+	list-style: none;
+	font-size: 100%;
+}
+
+/*doneの処理*/
+.done
+{
+	color: #BBBBBB;
+	text-decoration: line-through;
+}
+
+.addText
+{
+	padding: 0.5em 1em;
+	margin: 2em 0;
+	color: #232323;
+	background: #fff8e8;
+	border-left: solid 10px;
+}
+
+input#todoText
+{
+	width: 300px;
+	height: 35px;
+	font-size: 100%;
+}
+
+h1
+{
+	text-align: center;
+	position: relative;
+	background: #fff0cd;
+	box-shadow: 0px 0px 0px 5px #fff0cd;
+	border:dashed 2px white;
+	padding: 0.2em 0.5em;
+	color: #454545;
+}
+
+h2
+{
+	padding: 0.5em 1em;
+	margin: 1em 0;
+	background: #f4f4f4;
+	border-left: solid 6px #5bb7ae;
+	box-shadow: 0px 2px 3px rgba(0,0,0,0.33);
+}
+
+
+
+
